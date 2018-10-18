@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"alarm",
+				"alarmclockimg"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
 				"back",
 				"background-color\tproperty"
 			],
@@ -39,7 +63,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1020,
+				"buffer_size": 4457,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "index.html"
@@ -49,7 +73,7 @@
 			"file": "materialize.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 158,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -58,7 +82,7 @@
 			"file": "materialize.css",
 			"settings":
 			{
-				"buffer_size": 976,
+				"buffer_size": 1031,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "style.css"
@@ -142,7 +166,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -156,6 +180,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"content",
 			".send"
 		],
 		"highlight": true,
@@ -184,15 +209,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1020,
+						"buffer_size": 4457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								721,
-								721
+								1253,
+								1253
 							]
 						],
 						"settings":
@@ -203,10 +228,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 78.0,
+						"translation.y": 255.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -215,15 +240,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								154,
+								154
 							]
 						],
 						"settings":
@@ -249,15 +274,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 976,
+						"buffer_size": 1031,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								900,
-								900
+								127,
+								127
 							]
 						],
 						"settings":
@@ -268,10 +293,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 357.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -353,7 +378,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
